@@ -1,0 +1,20 @@
+{
+  "name": "polygons",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "point-in-polygon": "^1.0.1"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "description": "",
+  "engines": {
+    "node": "8.10.0"
+  }
+}
